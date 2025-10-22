@@ -19,7 +19,7 @@ attached is the image of it's prototype.
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDA0NywicHVyIjoiYmxvYl9pZCJ9fQ==--14ea3b702c6708a29244555bda86b281e669dbf4/image.png)
   
 
-## 10/22/2025 - from fusion 360 to budgeting and understandin the components  
+## 10/22/2025 5 PM - from fusion 360 to budgeting and understandin the components  
 
 i started my research by installing fusion 360 software for 3d modeling. i learned basic features of the software, like creating objects, making holes in objects, merging objects, using assembly tools, applying fillets, chamfers, and a few other techniques and features.
 
@@ -51,4 +51,34 @@ i've added:
 i also researched 3d printing materials, how they work, and how providers get the job done. specifically, i learned how to assemble and attach components with screws and brass inserts using a hot air gun and soldering iron.
 
 lastly, today was a competitive day as i learned various things altogether.  
+
+## 10/22/2025 6 PM - rebranding  
+
+first, i was thinking of building a fun mini-calculator keyboard.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM2MSwicHVyIjoiYmxvYl9pZCJ9fQ==--10562a82e5e4b48b38e551e2abb5816cae978dc1/image.png)
+
+but i thought to myself, we only get one chance. why to waste it on a boring keyboard? while i can make a big split keyboard that i can actually use.
+
+soooo, introducing key-mate, a split-able keyboard that has 3 connectivity options.
+just wanna game? use the first half. just wanna scroll some youtube reels? use the second half.
+
+this time, i'll also require a pcb, so the learning curve is steeper (or should i hand-wire them? 👀)
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM3MCwicHVyIjoiYmxvYl9pZCJ9fQ==--c76e1d1461c8e7e1e84f0c989e4a5acb9ee69270/image.png)
+
+this is a basic layout of my keyboard (looks very much like a mac keyboard)
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--d4dea413e850f200cc1b93621b4bcae2cd28b712/image.png)
+https://keychron.in/product/double-shot-low-profile-pbt-keycap-full-keycap-set/
+
+i loved these key caps, so maybe i'll use them and the keyboard layout should at final look something similar. (should i buy these? or 3d print my own custom?)
+i'm also thinking of including a knob that is customizable.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM4NSwicHVyIjoiYmxvYl9pZCJ9fQ==--43817706dceb236e9aeb42e647d4abe53bde7423/image.png)
+https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/hmx-cloud-switch/
+
+as for the key switches, i'm planning to buy these blue clicky switches.
+
+and i guess, i'll have to buy a better microcontroller that can handle the entire keys. (open for recommendations)  
 
