@@ -19,3 +19,36 @@ attached is the image of it's prototype.
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDA0NywicHVyIjoiYmxvYl9pZCJ9fQ==--14ea3b702c6708a29244555bda86b281e669dbf4/image.png)
   
 
+## 10/22/2025 - from fusion 360 to budgeting and understandin the components  
+
+i started my research by installing fusion 360 software for 3d modeling. i learned basic features of the software, like creating objects, making holes in objects, merging objects, using assembly tools, applying fillets, chamfers, and a few other techniques and features.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM1NCwicHVyIjoiYmxvYl9pZCJ9fQ==--08e60e34bda4d3fc2ea5e659b37462912fb2820c/image.png)
+
+secondly, i understood how keyboards and their circuits work.
+
+i also explored different component marketplaces and retailers and chose sharvielectronics.com, which has all the equipment and hardware components i need for my project.
+
+here’s the checklist of items and equipment i require:
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM1NywicHVyIjoiYmxvYl9pZCJ9fQ==--7934eafc393eae2fd3b0de97c76cc6d9c44109b8/image.png)
+
+_please criticize my checklist if there's any alternatives i should consider**_
+
+i've added:
+
+1. esp32 microcontroller with wifi and bluetooth support
+2. oled display for showing battery health, connectivity status, and other fun things through firmware
+3. copper wire, diodes, and ribbon wires for connecting the switches to the microcontroller (i’m not getting a custom pcb; i’m hand-wiring them)
+4. 3.7v 2800mah rechargeable battery for wireless connectivity options
+5. mt3608 step-up module for 5v output from the battery
+6. m2.5 6mm mounting screws
+7. m2.5 6mm brass inserts
+8. a push button
+9. other equipment like a soldering iron, hot air gun, and glue gun (i’m planning to remove some of these)
+
+
+i also researched 3d printing materials, how they work, and how providers get the job done. specifically, i learned how to assemble and attach components with screws and brass inserts using a hot air gun and soldering iron.
+
+lastly, today was a competitive day as i learned various things altogether.  
+
