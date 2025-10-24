@@ -82,3 +82,28 @@ as for the key switches, i'm planning to buy these blue clicky switches.
 
 and i guess, i'll have to buy a better microcontroller that can handle the entire keys. (open for recommendations)  
 
+## 10/25/2025 - setting up the pcb  
+
+day didn't start well,
+kinda wasted the first few hours debugging the software and libraries (they won't work idk why asdoausidhjouas)
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTIxNSwicHVyIjoiYmxvYl9pZCJ9fQ==--2af2babf15e339de14d4c8112f138905dea8c8be/image.png)
+
+
+couldn't do much, but eventually sorted things up
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTIxOCwicHVyIjoiYmxvYl9pZCJ9fQ==--aaa3aafe1f3a30b616852d6e707067748aec3992/image.png)
+
+i worked on basic switch + diode matrix, first positioned them in the schematic editor. then, in the pcb editor
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTIyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--9d0abfca776fdf7a2e3a6695e05d991253c47190/image.png)
+
+i had to do a few things multiple times, in order to get the correct thingy (cause, yes, i'm dumb)
+
+finally, choosing a microcontroller (erm) another big task.
+at last, i choose esp-32-s3.
+cause it natively supports bluetooth and wifi, and since we need different controllers in the halves these behave the best in such circuits.
+
+(i wanted to go with xiao-ble, but eh it only got 11 pins and i kinda need 7+6=13 pins atleast)
+
+next, gonna work on routing and setting up battery supply + protection etcccc  
+
