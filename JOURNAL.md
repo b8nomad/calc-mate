@@ -82,7 +82,7 @@ as for the key switches, i'm planning to buy these blue clicky switches.
 
 and i guess, i'll have to buy a better microcontroller that can handle the entire keys. (open for recommendations)  
 
-## 10/25/2025 - setting up the pcb  
+## 10/25/2025 12 AM - setting up the pcb  
 
 day didn't start well,
 kinda wasted the first few hours debugging the software and libraries (they won't work idk why asdoausidhjouas)
@@ -106,4 +106,17 @@ cause it natively supports bluetooth and wifi, and since we need different contr
 (i wanted to go with xiao-ble, but eh it only got 11 pins and i kinda need 7+6=13 pins atleast)
 
 next, gonna work on routing and setting up battery supply + protection etcccc  
+
+## 10/25/2025 5 PM - routing try x1  
+
+wasted precious hours of my life being dumb.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQyMywicHVyIjoiYmxvYl9pZCJ9fQ==--be5be588ab29282743dfd6f2739cba2a356bb741/image.png)
+
+i designed the pcb schematics last time, and now i was doing the pcb routing.
+and pfftt.. i'm soo bad at it..
+
+but either way, ima try again.
+
+let's route again 😔  
 
