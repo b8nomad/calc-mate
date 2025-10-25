@@ -120,3 +120,18 @@ but either way, ima try again.
 
 let's route again 😔  
 
+## 10/25/2025 6 PM - routing the pcb, pushing on git  
+
+though painful, but the request kinda seems nice.
+
+the 3d view of the pcb looks something like this:
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQ0NSwicHVyIjoiYmxvYl9pZCJ9fQ==--a6d9434176c8160c418f0b4c8ae008cb1f0249fd/image.png)
+can't wait to unveil the pcb order (soon tm)
+
+
+kicad project files are now pushed on github!!!!! yayyy!!
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQ0NCwicHVyIjoiYmxvYl9pZCJ9fQ==--a1c122d8d2528957efc1b0067c2d5029cd88edf3/image.png)
+
+also, since there was enough space in the left side (mcu ofc) so i've added one more oled display.  
+
