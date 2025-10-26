@@ -135,3 +135,14 @@ kicad project files are now pushed on github!!!!! yayyy!!
 
 also, since there was enough space in the left side (mcu ofc) so i've added one more oled display.  
 
+## 10/26/2025 - 3d case and plate models  
+
+moving to the 3d printing stuff.
+
+it was my first 3d model, but it went quite well (unlike the pcb thing, poor me)
+
+here's the case and plate for the left and right body.
+
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTY0NCwicHVyIjoiYmxvYl9pZCJ9fQ==--cc281b3ac4a480155dca58af31f94db5bfdac8ec/image.png)  
+
